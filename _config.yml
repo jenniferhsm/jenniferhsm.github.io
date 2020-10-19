@@ -44,6 +44,7 @@ feed:
 
 plainwhite:
   name: Thoughts
+  email: neo@whiterabbit.guru
   date_format: "%b %-d, %Y"
   sitemap: true
   portfolio_image:  "assets/portfolio.png"
