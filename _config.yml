@@ -50,6 +50,7 @@ plainwhite:
   portfolio_image:  "assets/portfolio.png"
 
   social_links:
+    email: neo@whiterabbit.guru
     rss: rss
 
 paginate: 10
