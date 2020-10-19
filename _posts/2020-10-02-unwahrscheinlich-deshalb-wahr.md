@@ -64,6 +64,8 @@ Bewundernswerten Weitblick beweisen trotz der monatelangen Belastung alle Politi
 
 Wir müssen nur durchhalten, der Impfstoff kommt bald. Man beeilt sich ja auch und verkürzt die Probezeiten.[^97] Wir wissen dieses Mal was wir tun! Wir haben aus den Fehlern der Vergangenheit bei der Impfung gelernt.[^98] Was Früher mindestens fünf Jahre gedauert hatte, können wir jetzt in fünf Monaten. Klar gibt es ein kleines Risiko, aber immer noch besser als das Virus! Wenn wir wieder raus wollen, frei atmen wollen, uns wieder umarmen wollen, dann geht das eben nur mit einem kleinen Pikser. Besser gleich zwei oder drei! Und wer das nicht will, der kann ja zu seinen HippieReichsbraunenAluVerschwörungsLeugnern in den Wald gehen. Denn wir kennen die einzige, wahre Wahrheit.[^99] Die haben uns nämlich Männer und Frauen in weißen Kitteln erzählt.
 
+Dieser Text darf frei kopiert und vervielfältigt werden.
+
 [^1]: [https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/coronavirus-augenarzt-aus-china-schlug-als-erster-alarm-16613471.html](https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/coronavirus-augenarzt-aus-china-schlug-als-erster-alarm-16613471.html)
 [^2]: [https://apnews.com/article/8509320385](https://apnews.com/article/8509320385)
 [^3]: [https://www.deutschlandfunk.de/neues-coronavirus-diagnostischer-test-aus-berlin-weltweit.676.de.html?dram:article_id=468640](https://www.deutschlandfunk.de/neues-coronavirus-diagnostischer-test-aus-berlin-weltweit.676.de.html?dram:article_id=468640) - fünftletzter Abschnitt
