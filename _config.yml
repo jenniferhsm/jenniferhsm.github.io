@@ -27,6 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+show_excerpts: true
+
 # Build settings
 # theme: minima
 markdown: kramdown
@@ -44,6 +46,7 @@ plainwhite:
   name: Thoughts
   date_format: "%b %-d, %Y"
   sitemap: true
+  portfolio_image:  "assets/portfolio.png"
 
   social_links:
     rss: rss
