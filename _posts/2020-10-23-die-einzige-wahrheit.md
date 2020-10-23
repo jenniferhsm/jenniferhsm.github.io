@@ -1,17 +1,13 @@
 ---
 layout: post
-title:  "Unwahrscheinlich, deshalb wahr"
-date:   2020-10-02 11:59:00 +0200
-categories: corona covid-19 sars-cov-2 
+title:  "Die einzige Wahrheit"
+date:   2020-10-23 11:59:00 +0200
+categories: corona covid-19 sars-cov-2
 ---
 
-> "Wenn man das Unmögliche ausgeschlossen hat, muss das was übrig bleibt, die Wahrheit sein, so unwahrscheinlich sie auch anmuten mag." - Arthur Conan Doyle, Schriftsteller und Erfinder von Sherlock Holmes
+Diese ganzen Verschwörungstheorien sind wirklich schlimm. Covidioten überall. Glauben alles besser zu wissen, besser als die Tagesschau, der Spiegel und vor allem *der* Virologe, Dr. Drosten. Aber denen zeigen wir es, wir die wir die Wahrheit kennen. Lest meinen Text, dann wird auch der letzte Leugner verstummen!
 
-Virologen, welche hundertprozentig treffsichere Tests aus Computersequenzen ohne echte Proben konstruieren, Politiker, die nicht ihre Macht, sondern nur die Gesundheit und das Wohl der Menschen im Sinn haben, Milliardäre, denen ihr Geld nichts mehr bedeutet, ehemalige Lobbyisten - jetzt Minister - welche keinen Ausnahmezustand scheuen, um die Bevölkerung vor sich selbst zu schützen und eine Weltgesundheitsorganisation, die mit den Zuwendungen der Pharmaindustrie die Welt zu heilen versucht?
-
-Hört sich abenteuerlich, geradezu unglaublich an? Muss aber nach oben zitiertem Arthur Conan Doyles wahr sein. Denn liest man folgenden Text, wird klar, dass alle anderen Szenarien völlig unmöglich sind...
-
-## Die eine Wahrheit
+## Die einzige Wahrheit
 Ein neues Corona-Virus taucht auf einem Tiermarkt in einer chinesischen Großstadt auf. Es verbreitet sich schnell in der Umgebung. Der Augenarzt, welcher es als erster bemerkt, hält es zunächst für ein SARS-1-ähnliches Virus.[^1] Immer mehr Menschen erkranken, und schon bald zirkulieren schockierende Bilder in den sozialen Medien.[^2] Ein aufmerksamer Virologe im fernen Deutschland bemerkt das und entwickelt innerhalb weniger Tage einen Test dafür. Einen PCR-Test.
 
 Für den braucht es kein eine echte Virusprobe aus China. Es reicht einfach eine per E-Mail verschickte Gensequenz.[^3] Trotzdem weiß der Entwickler des Tests, dass dieser hundertprozentig genau sein muss.[^4] Denn er hat ja schon den Test für die Vorgängerviren entwickelt und ist daher *der* Experte.
@@ -56,15 +52,13 @@ Während also in den Krankenhäusern und Pflegeheimen alles rund läuft, tut die
 
 Um die wirtschaftlichen Folgen abzufedern, ~~schmettert die Politik hole Phrasen[^83], rettet nur die Großkonzerne und deren Großaktionäre[^84], überlässt dabei den Mittelstand[^85] und die Selbstständigen[^86] völlig sich selbst, so dass Millionen ihre Lebensgrundlage verlieren[^87] und in die Armut abdriften~~ erlassen die Regierungen wohldurchdachte Programme, welche es *jedem einzelnen Bürger* ermöglichen, finanziell praktisch ungeschoren durch die sich abzeichnende Wirtschaftskrise zu kommen. Die Jobs sind sicher, die Miete auch und selbst Millionen von Kindern in Afrika brauchen den Hunger nicht zu fürchten, wir sind ja solidarisch.[^88] Selbst der deutsche Spargel wird [^89] genauso wie die armen Schweine bei Tönnies - die auf dem Fließband, und die daneben - gerettet.[^90]
 
-Dann, nach ein paar Wochen, dürfen die Menschen wieder zur Arbeit oder zur Schule. Aber nur sehr vorsichtig, mit Abstand und mit Masken. Und siehe da, die Zahlen fallen. Wir haben es geschafft, das Gesundheitssystem war nie überlastet, zumindest nicht in Deutschland. Denn Deutschland baut immer noch die besten Autos[^91], hat die klügsten Wissenschaftler[^92] und ein diszipliniertes Volk[^93]. Dass Schweden dazu im Gegensatz keine zweite Welle bekommt[ˆ200], spielt keine Rol... bitte weitergehen, es gibt hier nichts zu sehen... 
+Dann, nach ein paar Wochen, dürfen die Menschen wieder zur Arbeit oder zur Schule. Aber nur sehr vorsichtig, mit Abstand und mit Masken. Und siehe da, die Zahlen fallen. Wir haben es geschafft, das Gesundheitssystem war nie überlastet, zumindest nicht in Deutschland. Denn Deutschland baut immer noch die besten Autos[^91], hat die klügsten Wissenschaftler[^92] und ein diszipliniertes Volk[^93]. Dass Schweden dazu im Gegensatz keine zweite Welle bekommt[ˆ200], spielt keine Rol... bitte weitergehen, es gibt hier nichts zu sehen...
 
 Apropos Masken: Das Tolle ist, dass Masken nun auch medizinisch korrekt selbst von Kindern getragen werden können.[^94] Und es macht im Jahr 2020 auch nichts mehr aus, Masken, Stofftücher oder Schals wie Taschentücher zu behandelt und sie nach Gebrauch einfach irgendwo hineinzustopfen. Das Coronavirus wird nämlich anders als zuvor selbst von einer völlig versifften und durchnässten, seit zwei Wochen nicht gewaschenen Maske zurückgehalten. Und das Allerbeste: Pilze und Bakterien, welche sich in diesem Feuchtbiotop sammeln und vermehren, machen unseren Atemwegen gar nichts mehr aus\![^95] Das Jahr 2020 räumt mit allen früheren Hygiene-Märchen auf. Phantastisch!
 
 Bewundernswerten Weitblick beweisen trotz der monatelangen Belastung alle Politiker und Medien. Denn jeder der jetzt sagt, es sei vorbei, ist natürlich ein Narr. Das Virus ist heimtückisch, wie wir wissen. Es wartet nur darauf, dass wir aus unserer Deckung kommen. Deshalb müssen wir weiter Abstand halten. Masken tragen. Je weiter die Zahlen runter gehen, desto mehr Maske, denn die zweite Welle wird kommen[^96], keine Frage.[ˆ201] Das war ja schon 1918 bei der Spanischen Grippe so. Und was zum Ende eines Weltkrieges mit Hungersnöten und medizinischer Unterversorgung gilt, das gilt natürlich erst recht für das Jahr 2020 in den Industrieländern.
 
 Wir müssen nur durchhalten, der Impfstoff kommt bald. Man beeilt sich ja auch und verkürzt die Probezeiten.[^97] Wir wissen dieses Mal was wir tun! Wir haben aus den Fehlern der Vergangenheit bei der Impfung gelernt.[^98] Was Früher mindestens fünf Jahre gedauert hatte, können wir jetzt in fünf Monaten. Klar gibt es ein kleines Risiko, aber immer noch besser als das Virus! Wenn wir wieder raus wollen, frei atmen wollen, uns wieder umarmen wollen, dann geht das eben nur mit einem kleinen Pikser. Besser gleich zwei oder drei! Und wer das nicht will, der kann ja zu seinen HippieReichsbraunenAluVerschwörungsLeugnern in den Wald gehen. Denn wir kennen die einzige, wahre Wahrheit.[^99] Die haben uns nämlich Männer und Frauen in weißen Kitteln erzählt.
-
-Dieser Text darf frei kopiert und vervielfältigt werden.
 
 [^1]: [https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/coronavirus-augenarzt-aus-china-schlug-als-erster-alarm-16613471.html](https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/coronavirus-augenarzt-aus-china-schlug-als-erster-alarm-16613471.html)
 [^2]: [https://apnews.com/article/8509320385](https://apnews.com/article/8509320385)
